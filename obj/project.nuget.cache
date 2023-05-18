@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "3pqlUisF6+vYF/IwXGu6XlbRp73qvwwx3vFVWJGpW5p4gBQ19f/u1ee7QTkeZca1TjiRBO8U2FOnQZntmuqVcA==",
+  "success": true,
+  "projectFilePath": "D:\\Dev\\Python\\v3_GUI\\MyAuth\\my-auth\\my-auth.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\util2\\.nuget\\packages\\atksharp\\3.24.24.95\\atksharp.3.24.24.95.nupkg.sha512",
+    "C:\\Users\\util2\\.nuget\\packages\\cairosharp\\3.24.24.95\\cairosharp.3.24.24.95.nupkg.sha512",
+    "C:\\Users\\util2\\.nuget\\packages\\gdksharp\\3.24.24.95\\gdksharp.3.24.24.95.nupkg.sha512",
+    "C:\\Users\\util2\\.nuget\\packages\\giosharp\\3.24.24.95\\giosharp.3.24.24.95.nupkg.sha512",
+    "C:\\Users\\util2\\.nuget\\packages\\glibsharp\\3.24.24.95\\glibsharp.3.24.24.95.nupkg.sha512",
+    "C:\\Users\\util2\\.nuget\\packages\\gtksharp\\3.24.24.95\\gtksharp.3.24.24.95.nupkg.sha512",
+    "C:\\Users\\util2\\.nuget\\packages\\pangosharp\\3.24.24.95\\pangosharp.3.24.24.95.nupkg.sha512"
+  ],
+  "logs": []
+}
